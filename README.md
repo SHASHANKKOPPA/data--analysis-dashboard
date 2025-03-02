@@ -41,10 +41,10 @@ This Power BI dashboard provides insights into **e-commerce sales performance** 
 ---
 
 🚀 **How to Use:**  
-1️⃣ Open the `.pbix` file in **Power BI Desktop**  
-2️⃣ Connect to your dataset (or use the included data)  
+1️⃣ Open the https://drive.google.com/file/d/1LROR_0chCzp-NkgYP6c-ckkZEeoRo1ph/view?usp=drive_link file in **Power BI Desktop**  
+2️⃣ Connect to your dataset https://drive.google.com/drive/folders/1mY0agiWajOKDelUjIAADWMbB0q6kSz2p?usp=drive_link  
 3️⃣ Explore the interactive visualizations and insights  
  
 
-📌 _Author: [Shashank koppa]_  
-📌 _Created: [02-03-2025]_  
+📌 _Author: Shashank koppa_  
+📌 _Created: 02-03-2025_  
